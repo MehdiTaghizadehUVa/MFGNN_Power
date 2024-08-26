@@ -70,4 +70,4 @@ If you use this code in your research, please cite the paper:
 
 ## Contact
 
-For any questions or issues, please contact Mehdi Taghizadeh at [mehdi@virginia.edu](mailto:jrj6wm@virginia.edu).
+For any questions or issues, please contact Mehdi Taghizadeh at [jrj6wm@virginia.edu](mailto:jrj6wm@virginia.edu).
