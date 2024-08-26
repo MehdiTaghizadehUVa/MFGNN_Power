@@ -66,7 +66,7 @@ The trained models can be evaluated using the evaluation functions within the `G
 
 If you use this code in your research, please cite the paper:
 
-**Taghizadeh, M., Khayambashi, K., Hasnat, M.A., & Alemazkoor, N.** (2024). Multi-fidelity Graph Neural Networks for Efficient Power Flow Analysis under High-Dimensional Demand and Renewable Generation Uncertainty. *Electric Power Systems Research*.
+**Taghizadeh, M., Khayambashi, K., Hasnat, M.A., & Alemazkoor, N.** (2024). Multi-fidelity Graph Neural Networks for Efficient Power Flow Analysis under High-Dimensional Demand and Renewable Generation Uncertainty. *Electric Power Systems Research*.  [DOI: 10.1016/j.epsr.2024.111014(https://doi.org/10.1016/j.epsr.2024.111014)
 
 ## Contact
 
